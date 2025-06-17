@@ -95,8 +95,8 @@ pillow
 
 ## 📬 Contact
 
-Made by **Tanay Yaduka**  
-🔗 [Live Demo](https://garbage-segregation-app-tanay-yaduka.streamlit.app/)
+Made by **Yash Narad**  
+🔗 [Live Demo](https://smart-garbage-segeration-yash-narad.streamlit.app/)
 ---
 
 ## 🛠️ How We Built It
