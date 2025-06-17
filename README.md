@@ -3,7 +3,7 @@
 A deep learning-based web app that classifies uploaded waste images into categories like **cardboard**, **glass**, **metal**, **paper**, **plastic**, or **trash**. This tool promotes effective waste management and supports sustainability initiatives.
 
 🌐 **Try the Live App Here**:  
-👉 [Smart Garbage Separation App](https://garbage-segregation-app-tanay-yaduka.streamlit.app/)
+👉 [Smart Garbage Separation App](https://smart-garbage-segeration-yash-narad.streamlit.app/)
 
 ---
 
